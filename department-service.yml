@@ -5,8 +5,6 @@ spring:
     username: root
     password: Kailash@123
     url: jdbc:mysql://localhost:3306/studentdb?allowPublicKeyRetrieval=true&createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
-  
-
 
   jpa:
     show-sql: true
