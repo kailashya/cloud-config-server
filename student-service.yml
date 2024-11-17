@@ -6,7 +6,7 @@ spring:
     #password: Root_@123
     url: jdbc:mysql://localhost:3306/CollegeDB?allowPublicKeyRetrieval=true&createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
 
-     password: Kailash@123
+    password: Kailash@123
     # url: jdbc:mysql://localhost:3306/studentdb?allowPublicKeyRetrieval=true&createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
 
 
