@@ -2,7 +2,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: Root_@123
+    #password: Root_@123
+    password: Kailash@123
     url: jdbc:mysql://localhost:3306/CollegeDB?allowPublicKeyRetrieval=true&createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
   jpa:
     show-sql: true
